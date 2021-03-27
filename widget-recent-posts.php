@@ -3,7 +3,7 @@ class WP_Widget_Recent_Posts_BS5 extends WP_Widget {
     public function __construct() {
         $widget_ops = array(
             'classname'                   => 'widget_recent_entries',
-            'description'                 => __( 'Your site&#8217;s most recent Posts.' ),
+            'description'                 => __( 'Your site&#8217;s most recent Posts.' ) . ' (Bootstrap)',
             'customize_selective_refresh' => true,
         );
         parent::__construct( 'recent-posts', __( 'Recent Posts' ), $widget_ops );

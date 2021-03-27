@@ -12,7 +12,7 @@ class WP_Widget_Meta_BS5 extends WP_Widget
     {
         $widget_ops = array(
             'classname' => 'widget_meta',
-            'description' => __('Meta Bootstrap 5.'),
+            'description' => __( 'Login, RSS, &amp; WordPress.org links.' ) . ' (Bootstrap)',
             'customize_selective_refresh' => true,
         );
         parent::__construct('meta', __('Meta'), $widget_ops);
