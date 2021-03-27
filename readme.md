@@ -9,7 +9,7 @@ Tags: bootstrap, widgets, refactoring
 Contributors: Norico  
 
 
-##Description
+## Description
 Refactorisation des widgets pour Bootstrap.
 
 Pour des raison de confort d'utilisation, je n'ai pas réécris les widgets, 
@@ -18,7 +18,7 @@ en fonction du theme.
 
 Les Widgets de base sont juste desactivés et remplacés par les nouveaux.
 
-###Fonctionnalités
+### Fonctionnalités
 
 
 #### Meta
@@ -38,7 +38,7 @@ Les Widgets de base sont juste desactivés et remplacés par les nouveaux.
 
 ---
 
-##Description
+## Description
 Refactoring widgets for Bootstrap.
 
 For ease of use, I did not rewrite the widgets,
@@ -47,7 +47,7 @@ depending on the theme.
 
 The basic Widgets are just deactivated and replaced by the new ones.
 
-###Features
+### Features
 
 #### Meta
  * Clean up the Meta widget, keep only administratives links.
