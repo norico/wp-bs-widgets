@@ -33,7 +33,7 @@ Les Widgets de base sont juste desactivés et remplacés par les nouveaux.
 
 
 ### Utilisation 
- * Télecharger, installer, utiliser les nouveaux widgets.
+ * Téléchargez, installez, utilisez les nouveaux widgets.
 
 
 ---
